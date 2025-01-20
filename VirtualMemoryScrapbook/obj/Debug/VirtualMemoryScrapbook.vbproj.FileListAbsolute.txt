@@ -1,0 +1,17 @@
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\bin\Debug\VirtualMemoryScrapbook.exe.config
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\bin\Debug\VirtualMemoryScrapbook.exe
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\bin\Debug\VirtualMemoryScrapbook.pdb
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\bin\Debug\VirtualMemoryScrapbook.xml
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\bin\Debug\itextsharp.dll
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\bin\Debug\itextsharp.xml
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\obj\Debug\VirtualMemoryScrapbook.vbproj.AssemblyReference.cache
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\obj\Debug\VirtualMemoryScrapbook.VMS.resources
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\obj\Debug\VirtualMemoryScrapbook.Resources.resources
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\obj\Debug\VirtualMemoryScrapbook.vbproj.GenerateResource.cache
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\obj\Debug\VirtualMemoryScrapbook.vbproj.CoreCompileInputs.cache
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\obj\Debug\VirtualMemoryScrapbook.vbproj.CopyComplete
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\obj\Debug\VirtualMemoryScrapbook.exe
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\obj\Debug\VirtualMemoryScrapbook.xml
+C:\Users\User 4\source\repos\VirtualMemoryScrapbook\VirtualMemoryScrapbook\obj\Debug\VirtualMemoryScrapbook.pdb
