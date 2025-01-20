@@ -5,7 +5,7 @@ Scrapbook Manager is a Windows Forms Application that allows users to create, ma
 
 ---
 
-# Features
+### Features
 - **Photo Management**: Add, view, caption, and delete photos within a scrapbook.
 - **Portable Scrapbooks**: Saves photos in a dedicated `photos` folder alongside the `.sbk` file for easy sharing and use on other devices.
 - **Caption Editing**: Update captions for photos on the fly.
@@ -15,20 +15,20 @@ Scrapbook Manager is a Windows Forms Application that allows users to create, ma
 
 ---
 
-# File Structure
+### File Structure
 - **Scrapbook File (`.sbk`)**: A text-based file containing relative paths to photos and their captions.
 - **Photos Folder**: Stores all photo files for a scrapbook, ensuring portability.
 
 ---
 
-# Technologies Used
+### Technologies Used
 - **Programming Language**: Visual Basic (.NET Framework)
 - **IDE**: Visual Studio
 - **Windows Forms**: For the graphical user interface
 
 ---
 
-# How to Use
+### How to Use
 1. **Add Photos**:
    - Use the "Add" button to include photos in your scrapbook.
    - Assign captions for each photo.
@@ -41,7 +41,7 @@ Scrapbook Manager is a Windows Forms Application that allows users to create, ma
 
 ---
 
-# Setup Instructions
+### Setup Instructions
 1. Clone or download the repository.
 2. Open the project in Visual Studio.
 3. Build and run the application.
@@ -49,7 +49,7 @@ Scrapbook Manager is a Windows Forms Application that allows users to create, ma
 
 ---
 
-# Future Improvements
+### Future Improvements
 - Add support for multiple scrapbook files in a single session.
 - Implement drag-and-drop functionality for photos.
 - Add an export option for scrapbook files as PDFs.
@@ -57,10 +57,10 @@ Scrapbook Manager is a Windows Forms Application that allows users to create, ma
 
 ---
 
-# Contributions
+### Contributions
 Contributions are welcome! Feel free to submit pull requests or open issues to suggest features or report bugs.
 
 ---
 
-# License
+### License
 This project is licensed under the MIT License. See the LICENSE file for more details.
