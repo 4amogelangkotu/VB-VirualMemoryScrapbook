@@ -1,6 +1,6 @@
 # VB-VirualMemoryScrapbook
 
-# Overview
+#### Overview
 Scrapbook Manager is a Windows Forms Application that allows users to create, manage, and share personalized photo scrapbooks. The application simplifies organizing and captioning photos, saving scrapbooks in a portable format that can easily be transferred across devices.
 
 ---
